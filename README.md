@@ -18,5 +18,3 @@ My portofolio
 - CSS
 - JavaScript
 
-## Prototype Preview
-- [Prototype Preview](https://www.figma.com/proto/fWa3JGk7czd4UP135KfhAz/Taqwa-Design?node-id=745-174&t=0nzDaGSv0WhrSUgP-1)
